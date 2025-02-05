@@ -41,7 +41,7 @@ This project analyzes the **Mavin Marketing dataset** to uncover key insights in
 
 
 ### **📢 Marketing Campaign Performance**  
-- Best campaigns: **4, 3, and 5** (scores: 167, 165, 160).  
+- Best campaigns: **4, 3, and 5** (scores: 167, 163, 163).  
 - Worst campaign: **Campaign 2** (score: 30) → likely poor targeting.
 
  ![success rate of campaign](https://github.com/user-attachments/assets/ecd45673-12a5-4450-bba1-3900c0fc3924)
