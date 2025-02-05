@@ -62,13 +62,8 @@ This project analyzes the **Mavin Marketing dataset** to uncover key insights in
 
 ## 📊 Dashboard Preview  
   ![dashboard](https://github.com/user-attachments/assets/57b1d5e1-b024-43ae-9838-70fefc066854)
-
-
-## 📥 How to Use  
-1. **Download the Excel file**: [🔗 Mavin Marketing Analysis.xlsx](https://github.com/oziohuzainab/maven-marketing-analysis/blob/main/first%20project.xlsx)  
-2. Open in **Microsoft Excel**.  
-3. Explore **pivot tables, charts, and key insights**.  
-
-## 📎 Project Link  
-🔗 [View on GitHub](https://github.com/yourusername/yourrepo/projects/excel-analysis)
+  
+  
+  ## 📎 Project Link  
+🔗 (https://github.com/oziohuzainab/maven-marketing-analysis/blob/main/first%20project.xlsx)  
 
