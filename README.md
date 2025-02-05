@@ -64,6 +64,6 @@ This project analyzes the **Mavin Marketing dataset** to uncover key insights in
   ![dashboard](https://github.com/user-attachments/assets/57b1d5e1-b024-43ae-9838-70fefc066854)
   
   
-  ## 📎 Project Link  
-🔗 (https://github.com/oziohuzainab/maven-marketing-analysis/blob/main/first%20project.xlsx)  
+  ## 📎 Project Link
+  🔗 [View on GitHub](https://github.com/oziohuzainab/maven-marketing-analysis/blob/main/first%20project%20(2).xlsx)
 
