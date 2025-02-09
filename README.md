@@ -50,13 +50,13 @@ This project analyzes the **Mavin Marketing dataset** to uncover key insights in
   
 
 
-### **🕒 Customer Trends**  
-- Most active buyers: **0-9, 20-29, and 50-59** age groups.  
-- **30-39 and 60-69** groups shows low engagement.
+### **📊 Customer Buying Behavior (Recency of Purchase)**  
+- Higher Engagement: Customers with the most recent purchases tend to engage more frequently.  
+- Declining Activity: A drop in recent purchases from certain segments signals an opportunity for re-engagement
 
 ![customer recency of purchase](https://github.com/user-attachments/assets/8e02afca-882b-45b2-9dc3-ece4fe5ba33f)
 
-- **Strategy**: Adjust marketing efforts for the **30-39 and 60-69** segment.
+- **Strategy**:Implement targeted marketing efforts to reconnect with inactive customers
     
 
 
